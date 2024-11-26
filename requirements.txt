@@ -1,0 +1,12 @@
+dash
+dash-html-components
+dash-core-components
+dash-bootstrap-components
+folium
+plotly
+pandas
+IPython
+matplotlib
+seaborn
+missingno
+scikit-learn
